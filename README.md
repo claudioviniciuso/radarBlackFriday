@@ -7,7 +7,7 @@ Irei utilizar essas informações para avaliar os seguintes pontos:
 * Os preços aumentam antes da Black Friday?
 * Os preços realmente foram reduzidos durante o evento? 
 * Quais categorias sofrem maiores reduções nos preços? 
-* Quais lojas aplicou maiores descontos? 
+* Quais lojas aplicaram maiores descontos? 
 
 Alguns pontos que devem ser levados em consideração e que podem afetar a analise:
 * As lojas podem não reduzir o preço do produto, mais sim aplicar cupons de desconto
