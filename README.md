@@ -1,4 +1,4 @@
-# Projeto: Radar Blackfriday
+# Radar Black Friday
 
 ## Resumo:
 Partindo de uma necessidade pessoal em comprar uma TV Smart, venho acompanhando os preços do produto específico desde Agosto deste ano, mas sempre adiando para o momento da tão falada Black Friday. Sendo assim e relembrando aquela famosa frase: "A Black Friday é muito boa. Você paga a metade do dobro", resolvi criar uma aplicação que diariamente realiza a raspagem de sites da WEB coletando o preço de diversos produtos/lojas e armazenando em um banco de dados. 
