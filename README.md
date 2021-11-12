@@ -21,7 +21,7 @@ A ideia desse projeto é responder as seguintes perguntas:
 
 >Alguns pontos que devem ser levados em consideração e que podem afetar a analise:
 >* As lojas podem não reduzir o preço do produto, mais sim aplicar cupons de desconto
->* O inicio do processo de coleta aconteceu no dia 28.10.2021, algumas lojas já estavam prometendo antecipação da Black Friday.
+>* O início do processo de coleta aconteceu no dia 28.10.2021, algumas lojas já estavam prometendo antecipação da Black Friday.
 
 
 >Ainda que os resultados não seja tão satisfatórios, será uma experiência excelente para o meu desenvolvimento profissional e espero ajudar a comunidade de dados de alguma forma.
